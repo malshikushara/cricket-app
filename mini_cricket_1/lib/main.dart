@@ -77,8 +77,8 @@ class _CricketHomePageState extends State<CricketHomePage> {
 
                 Column(
                   children: [
-                    Image.network(
-                      'https://cdn-icons-png.flaticon.com/512/502/502195.png',
+                    Image.asset(
+                      'assets/bat.png',
                       width: 120,
                       height: 120,
                     ),
